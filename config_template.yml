@@ -1,0 +1,5 @@
+telegram:
+    -   apiId: 'XXXXXXXXX'
+        apiHash: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+        phone: 'XXXXXXXXX'
+        databaseEncryptionKey: 'changeme1234'
